@@ -11,3 +11,7 @@ Buttons are styled links that can lead to local page or external link.
 
 {{< button relref="/" >}}Get Home{{< /button >}}
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
+
+Lo que sea
+{{< p5-iframe sketch="/showcase/sketches/illusion.js" width="410" height="410" >}}
